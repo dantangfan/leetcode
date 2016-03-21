@@ -1,3 +1,4 @@
+# coding:utf-8
 # 判断数字是不是回文
 class Solution(object):
     def isPalindrome(self, x):
